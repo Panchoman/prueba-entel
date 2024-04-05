@@ -1,0 +1,5 @@
+EXECUTE dbo.sp_obtener_marcas_mas_solicitadas;
+EXECUTE dbo.sp_obtener_solicitudes_mes_actual;
+EXECUTE dbo.sp_obtener_vendedor_menos_solicitudes_ultimos_30_dias;
+EXECUTE dbo.sp_obtener_modelos_sin_solicitudes;
+EXECUTE dbo.sp_obtener_3_meses_con_mas_dinero_en_ventas;
